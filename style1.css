@@ -22,7 +22,7 @@ body{
 }
 
 .container{
-    height: 650px;
+    height: 670px;
     width: 500px;
     border: 2px solid rgb(26, 83, 24, 0.5);
     border-radius: 7px;
@@ -119,3 +119,8 @@ body{
     font-weight: 400;
 }
 
+.remain{
+    color: #9c7711;
+    top: 10px;
+    font-weight: 400;
+}
