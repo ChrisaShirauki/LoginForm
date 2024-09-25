@@ -8,7 +8,7 @@
 
       // Validation Parameters //
       var camelRegExp= /^[A-Z][a-zA-Z]*$/;  // Camel Case Regular Expression
-      const email ="@gmail.com"; //Parameter that holds the username ending
+      const email ="@geoanalysis.gr"; //Parameter that holds the username ending
       var passRegEXP = /[^A-Za-z0-9]/; //Contains special character
 
 
